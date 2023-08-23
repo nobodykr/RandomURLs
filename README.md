@@ -10,7 +10,7 @@ Here are some important links related to my project:
 - [Link 6](https://rb.gy/jx539)
 - [Link 7](https://rb.gy/gqhph)
 - [Link 8](https://rb.gy/47o5q)
-- [Link 9](https://www.whatismybrowser.com/detect/what-http-headers-is-my-browser-sending)https://www.whatismybrowser.com/detect/what-http-headers-is-my-browser-sending)
+- [Link 9](https://www.whatismybrowser.com/detect/what-http-headers-is-my-browser-sending)
 
 - 
 
